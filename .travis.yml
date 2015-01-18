@@ -1,0 +1,6 @@
+language: bash
+script:
+- echo "No test" && exit 0
+notifications:
+  slack:
+    secure: d+tSkQ8VtWxDZWXJuerYgsGKLrOIx0jXD/StrddIuEw9ljAL2v0IbdJAAcD1F0tK/nv7gCIyv45+SQgfDi/IYe9w05jmKJEPW/PB/eRSJSidF3XsrkJ1YMWAkQ04jtE8uIpAro9yvvWkcu2Iy/HkOJYF6p837e4UEuXXmty+M/I=
